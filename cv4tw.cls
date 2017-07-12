@@ -97,11 +97,14 @@
 {homepage}{ \qdlink{http://}{cvcontact#1}{}}%
 {homepagessl}{ \qdlink{https://}{cvcontact#1}{}}%
 {customhomepage}{ \qdlink{}{cvcontact#1}{}}%
+{telegram}{ \qdlink{https://t.me/}{cvcontact#1}{}}%
+{skype}{ \qdlink{skype:}{cvcontact#1}{}}%
 {vk}{ \qdlink{http://www.vk.com/}{cvcontact#1}{}}%
 {pinterest}{ \qdlink{http://www.pinterest.com/}{cvcontact#1}{}}%
 {linkedin}{ \qdlink{https://www.linkedin.com/in/}{cvcontact#1}{}}%
 {twitter}{ \qdlink{https://www.twitter.com/}{cvcontact#1}{}}%
 {github}{ \qdlink{https://www.github.com/}{cvcontact#1}{}}%
+{bitbucket}{ \qdlink{https://bitbucket.org/}{cvcontact#1}{}}%
 {facebook}{ \qdlink{https://www.facebook.com/}{cvcontact#1}{}}%
 {googleplus}{ \qdlink{https://plus.google.com/}{cvcontact#1}{}}%
 }[{\qdget{cvcontact#1}}]
